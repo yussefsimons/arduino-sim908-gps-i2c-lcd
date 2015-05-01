@@ -1,0 +1,1 @@
+Recently i brough rs232 economical gps/gprs/gsm sim908 module. i tried n tried to connect to arduino. finaly due huge arduino supporters on web i able to code gps UTC time on I2C-LCD and been to local time with my indian mode +5:30
